@@ -1,0 +1,43 @@
+body {
+  background-color: #ccf2f4;
+}
+.warna-nav {
+  background-color: #a4ebf3;
+}
+
+.baner {
+  background-color: #ccf2f4;
+}
+
+hr {
+  width: 250px;
+  border-top: 3px solid #aaaaaa;
+}
+
+#about {
+  min-height: 350px;
+  background-color: #f4f9f9;
+}
+
+.gam {
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+}
+
+#contact {
+  background-color: #f4f9f9;
+
+}
+
+footer {
+  background-color: #aaaaaa;
+}
+
+footer {
+  font-size: 0.9em;
+}
+
+.github, .facebook {
+  font-size: 50px;
+}
